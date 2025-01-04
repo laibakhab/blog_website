@@ -10,7 +10,7 @@ const Footer = () => {
           <h1 className="font-bold text-xl mb-5 hover:text-red-600 cursor-pointer">Car Rent</h1>
           <p className="text-sm">
             Lorem, ipsum dolor sit amet<br />
-            consectetur adipisicing elit. Eligendi <br />
+            consectetur adipisicing elit. Eligendi <br /> <br />
             dolores porro veniam deserunt <br />
             eius, tempore expedita hic officiis <br />
             perferendis.
