@@ -39,7 +39,7 @@ export interface Post {
     {
       id: 6,
       title: "Bugatti",
-      content: "Bugatti is a legendary French luxury sports car brand that epitomizes exclusivity, elegance, and unparalleled performance. Founded in 1909 by Ettore Bugatti, the company has established itself as a pioneer in the automotive industry, producing some of the world's most iconic and sought-after cars. With models like the Veyron, Chiron, and La Voiture Noire, Bugatti's cars are renowned for their breathtaking design, exceptional craftsmanship, and record-breaking performance. Powered by massive W16 engines producing over 1,500 horsepower, Bugatti's hypercars are the ultimate symbols of speed, luxury, and innovation. With a reputation for building some of the world's most exclusive and expensive cars, Bugatti remains the pinnacle of automotive excellence, catering to a select few who demand the very best.",
+      content: "Bugatti is a legendary French luxury sports cars brand that epitomizes exclusivity, elegance, and unparalleled performance. Founded in 1909 by Ettore Bugatti, the company has established itself as a pioneer in the automotive industry, producing some of the world's most iconic and sought-after cars. With models like the Veyron, Chiron, and La Voiture Noire, Bugatti's cars are renowned for their breathtaking design, exceptional craftsmanship, and record-breaking performance. Powered by massive W16 engines producing over 1,500 horsepower, Bugatti's hypercars are the ultimate symbols of speed, luxury, and innovation. With a reputation for building some of the world's most exclusive and expensive cars, Bugatti remains the pinnacle of automotive excellence, catering to a select few who demand the very best.",
       imageUrl: "/download6.jpg"
     },
     {
