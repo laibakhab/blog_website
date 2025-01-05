@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="container mx-auto px-4 py-8  min-h-screen">
 
-      <h1 className="text-4xl font-bold mb-4 text-black text-center">Welcome to Car Blog Website!</h1>
+      <h1 className="text-4xl font-bold mb-4 text-black text-center">Welcome to Car Blog Website</h1>
       <h1 className="text-base  mb-8 text-gray-500 text-center">
       Cars are one of the most significant inventions in modern history, revolutionizing transportation and mobility. They are motor vehicles designed for transporting passengers, typically powered by internal combustion engines or, increasingly, by electric motors.</h1>
 
